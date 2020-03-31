@@ -1,5 +1,5 @@
 # DeliverNotificater
 - Lieferanten werden eingelesen
 - Lieferantenbewertung (Protokoll) --> Drucken mgl.
-- Benachrichtigung wenn lieferung in einer Woche eintrifft
+- Benachrichtigung bei anstehender Lieferung (eine Woche zuvor)
 - Daten werden in Datenbank gespeichert
